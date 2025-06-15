@@ -15,6 +15,11 @@ to compile Fortran code i will use **flang** compiler with **.f90** extension.
 
 **Note:** this repo is all about learning Fortran. and doing exercises.
 
+# Exercises
+
+- [exercise-1](exercise-1)
+- [exercise-2](exercise-2)
+
 # sources
 
 [Fortran lang ](https://fortran-lang.org/learn/) for learning 
