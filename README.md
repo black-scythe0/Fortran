@@ -13,7 +13,7 @@
 ---
 to compile Fortran code i will use **flang** compiler with **.f90** extension.
 
-Note: the name Fortran should not be confused with Fortran compiler or language repo.
+**Note:** the name Fortran should not be confused with Fortran compiler or language repo.
 this repo is all about learning Fortran.
 
 # sources
