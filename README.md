@@ -12,3 +12,6 @@
 ---
 to compile Fortran code i will use **flang** compiler with **.f90** extension.
 
+# License
+
+this repo is under MIT-License
