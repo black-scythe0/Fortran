@@ -1,0 +1,1 @@
+- to calculate $`\sqrt{b^2 - 4ac} `$ value of a, b, c must be given by the user $`b^2 `$ must be greater than $`4ac`$ otherwise the program will fail
