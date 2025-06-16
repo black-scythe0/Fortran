@@ -20,6 +20,7 @@ to compile Fortran code i will use **flang** compiler with **.f90** extension.
 - [exercise-1](exercise-1)
 - [exercise-2](exercise-2)
 - [exercise-3](exercise-3)
+- [exercise-4](exercise-4)
 
 # sources
 
