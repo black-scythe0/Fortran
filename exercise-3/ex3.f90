@@ -4,15 +4,12 @@ program ex3
 
     implicit none 
     
-    real::sroot, one_sroot
+    real::sroot, i
     sroot = 0.5
     
-    print *, "square root of 1 is ", 1**sroot
-    print *, "square root of 2 is ", 2**sroot
-    print *, "square root of 3 is ", 3**sroot
-    print *, "square root of 4 is ", 4**sroot
-    print *, "square root of 5 is ", 5**sroot 
-
+    do i=1,5
+        print *, "square root of",i,"is ", i**sroot 
+    end do
 end program
 
 
