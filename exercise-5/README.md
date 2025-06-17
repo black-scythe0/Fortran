@@ -1,1 +1,1 @@
-- calculate roots of a quadratic equation $`ax^2 + b + c`$. where value of a, b and c must be given by the user.
+- calculate roots of a quadratic equation $`ax^2 + b + c = 0`$. where value of a, b and c must be given by the user.
